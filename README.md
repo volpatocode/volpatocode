@@ -1,7 +1,9 @@
   <div align="center">
-    <img align="center" src="https://avatars.githubusercontent.com/u/102267019?v=4" height="150px" width="150px"> 
-    <h2>Hi there, i'm João 😃</h2>
-    <h2>A Front-End technology lover ❤</h2>
+    <kbd><img align="center" src="https://avatars.githubusercontent.com/u/102267019?v=4" height="150px" width="150px"></kbd>
+    <h2>Hi there, i'm João 😃
+      <br>
+    A Front-End technology lover ❤
+    </h2>
   </div>
   
   <div>
@@ -20,11 +22,14 @@
       <li>😴My free time I like spend listening to podcasts or watch thriller series</li>
     </ul
   </div>
+  <br>
       
   <a><img align="center" alt="code-Linkedin" height="30" width="110" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> My Linkedin :)
-      
+  <div align="center">   
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=volpatocode&show_icons=true&theme=darcula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=volpatocode&layout=compact&langs_count=7&theme=darcula"/>
+  </div>
+      
   <br>
   <br>
       
