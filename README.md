@@ -1,5 +1,5 @@
   <div align="center">
-    <kbd><img align="center" src="https://avatars.githubusercontent.com/u/102267019?v=4" height="150px" width="150px"></kbd>
+    <kbd><img align="center" src=https://user-images.githubusercontent.com/102267019/162550059-37e05253-fc5f-4b73-99a1-46db2205757c.jpg height="150px" width="150px"></kbd>
     <h2>Hi there, i'm João 😃
       <br>
     A Front-End technology lover ❤
