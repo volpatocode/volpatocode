@@ -59,6 +59,8 @@
         <img align="center" alt="code-SASS" height="30" width="80" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
         <img align="center" alt="code-Bootstrap" height="30" width="110" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
         <img align="center" alt="code-Styled-components" height="30" width="150" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
+        <img align="center" alt="code-NextJS" height="30" width="100" src="https://camo.githubusercontent.com/42f5986dec98935a91e5ba9ff7dd1e4999472746e5771c74136abfa5b0e006c9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6e6578742e6a732532302d2532333030303030302e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6e6578742e6a73266c6f676f436f6c6f723d7768697465">
+    
   </div>
       
      
