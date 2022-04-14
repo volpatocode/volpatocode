@@ -8,7 +8,7 @@
   
   <div>
     <p>
-      Familiar with technology since I was a child, my love for it grows every day along with the desire to learn more. I am currently studying to become a front end engineer and in the future a full stack developer. 
+      Familiar with technology since I was a child, my love for it grows every day along with the desire to learn more. I am currently studying to become a front end engineer.
     </p>
     <p>
   If you want to know me better or even follow my evolution you can keep an eye here, checking my daily projects and activities. Feel free to call me to chat, knowledge is a glass that never fills.
