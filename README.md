@@ -39,10 +39,15 @@
         💻Currently learning:
       </li>
     </ul>
+        <img align="center" alt="code-React" height="30" width="90" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+    <img align="center" alt="code-NextJs" height="30" width="90" src="https://camo.githubusercontent.com/c2f6eb1cf11b35d70ed05bb666596ad4ddcae1a68177e2f5b016b5d23fd8983f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6e6578746a732d2532333030303030302e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6e6578742e6a73266c6f676f436f6c6f723d7768697465">
         <img align="center" alt="code-HTML5" height="30" width="100" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
         <img align="center" alt="code-CSS3" height="30" width="80" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
         <img align="center" alt="code-Javascript" height="30" width="110" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
         <img align="center" alt="code-Git" height="30" width="70" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
+        <img align="center" alt="code-Typescript" height="30" width="110" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+    <img align="center" alt="code-Styled-components" height="30" width="150" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
+      <img align="center" alt="code-Vercel" height="30" width="90" src="https://camo.githubusercontent.com/fcd1c87e77465b77d8154ec711dd65b26f942dceb3be799ea6a621c291982753/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f76657263656c2d2532333030303030302e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d76657263656c266c6f676f436f6c6f723d7768697465">      
   </div>
       <br>
       <br>
@@ -53,13 +58,9 @@
         🎯What i plan to learn soon:
       </li>
     </ul>
-        <img align="center" alt="code-React" height="30" width="90" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
         <img align="center" alt="code-NodeJs" height="30" width="95" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
-        <img align="center" alt="code-Typescript" height="30" width="110" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
         <img align="center" alt="code-SASS" height="30" width="80" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
         <img align="center" alt="code-Bootstrap" height="30" width="110" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
-        <img align="center" alt="code-Styled-components" height="30" width="150" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
-        <img align="center" alt="code-NextJS" height="30" width="100" src="https://camo.githubusercontent.com/42f5986dec98935a91e5ba9ff7dd1e4999472746e5771c74136abfa5b0e006c9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6e6578742e6a732532302d2532333030303030302e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6e6578742e6a73266c6f676f436f6c6f723d7768697465">
     
   </div>
       
