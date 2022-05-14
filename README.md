@@ -18,8 +18,8 @@
   <div>
     <ul>
       <li>🧠Currently studying to become a React Front-End Developer </li>
-      <li>👀I'm always keeping an eye on Linkedin, being as active there as possible</li>
-      <li>😴My free time I like spend listening to podcasts or watch thriller series</li>
+      <li>👀I'm always keeping an eye on Linkedin, being active there as possible</li>
+      <li>😴My free time I like spend listening to podcasts or watching thriller series</li>
     </ul
   </div>
   <br>
