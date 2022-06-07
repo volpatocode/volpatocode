@@ -68,11 +68,11 @@ src="https://camo.githubusercontent.com/c2f6eb1cf11b35d70ed05bb666596ad4ddcae1a6
     <img align="center" alt="code-Redux" height="30" width="100" src="https://camo.githubusercontent.com/6908bc5919e46cd787b8e5117f092f5ed37da82e8bd602e6339060ea0fff722c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656475782d3539334438383f7374796c653d666f722d7468652d6261646765266c6f676f3d7265647578266c6f676f436f6c6f723d7768697465">
     <img align="center" alt="code-Jest" height="30" width="80" src="https://camo.githubusercontent.com/5ec7b7ed343219da6b2213349bacdc389803950b5298464b35e76f7ab6ccf27d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6573742d4332313332353f7374796c653d666f722d7468652d6261646765266c6f676f3d6a657374266c6f676f436f6c6f723d7768697465">
     <img align="center" alt="code-ExpressJS" height="30" width="110" src="https://camo.githubusercontent.com/7f73136d92799b19be179d1ed87b461120c35ed917c7d5ab59a7606209da7bd3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f457870726573732e6a732d3030303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d65787072657373266c6f676f436f6c6f723d7768697465">
-        <img align="center" alt="code-SASS" height="30" width="80" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
-        <img align="center" alt="code-Bootstrap" height="30" width="110" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+    <img align="center" alt="code-SASS" height="30" width="80" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
+    <img align="center" alt="code-Bootstrap" height="30" width="110" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+    <img align="center" alt="code-Bootstrap" height="30" width="110" src="https://camo.githubusercontent.com/b504a789288194ec00a04eb9875c2b623890f7bf0f79b01341c623b62af8b949/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f66697265626173652d2532333033394245352e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6669726562617365">
     
   </div>
       
      
-
       
