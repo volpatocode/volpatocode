@@ -24,20 +24,22 @@ Fast learner with almost one year of experience using the newest technologies to
   <div>
         Tech Stack:
         <br>
-        <img align="center" alt="code-React" height="30" width="90" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-        <img align="center" alt="code-NextJs" height="30" width="90"
-src="https://camo.githubusercontent.com/c2f6eb1cf11b35d70ed05bb666596ad4ddcae1a68177e2f5b016b5d23fd8983f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6e6578746a732d2532333030303030302e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6e6578742e6a73266c6f676f436f6c6f723d7768697465">
-        <img align="center" alt="code-MaterialUI" height="30" width="95" src="https://camo.githubusercontent.com/2c2e3cab0541596a12e216df86e68fa554256f25826b55a068993a3edfbcd0e8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6174657269616c2d2d55492d3030383143423f7374796c653d666f722d7468652d6261646765266c6f676f3d6d6174657269616c2d7569266c6f676f436f6c6f723d7768697465">
-        <img align="center" alt="code-HTML5" height="30" width="100" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-        <img align="center" alt="code-CSS3" height="30" width="80" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-        <img align="center" alt="code-Javascript" height="30" width="110" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-        <img align="center" alt="code-Git" height="30" width="70" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
-        <img align="center" alt="code-Typescript" height="30" width="110" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-        <img align="center" alt="code-Styled-components" height="30" width="150" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
-        <img align="center" alt="code-Vercel" height="30" width="90" src="https://camo.githubusercontent.com/fcd1c87e77465b77d8154ec711dd65b26f942dceb3be799ea6a621c291982753/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f76657263656c2d2532333030303030302e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d76657263656c266c6f676f436f6c6f723d7768697465">
-        <img align="center" alt="code-Firebase" height="30" width="110" src="https://camo.githubusercontent.com/b504a789288194ec00a04eb9875c2b623890f7bf0f79b01341c623b62af8b949/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f66697265626173652d2532333033394245352e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6669726562617365">
-        <img align="center" alt="code-testinglibrary" height="30"src="https://img.shields.io/badge/-TestingLibrary-%23E33332?&style=for-the-badge&logo=testing-library&logoColor=white"/> 
+        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+        <img src="https://camo.githubusercontent.com/2c2e3cab0541596a12e216df86e68fa554256f25826b55a068993a3edfbcd0e8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6174657269616c2d2d55492d3030383143423f7374796c653d666f722d7468652d6261646765266c6f676f3d6d6174657269616c2d7569266c6f676f436f6c6f723d7768697465"/>
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+        <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
+        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+        <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/>
+        <img src="https://camo.githubusercontent.com/fcd1c87e77465b77d8154ec711dd65b26f942dceb3be799ea6a621c291982753/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f76657263656c2d2532333030303030302e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d76657263656c266c6f676f436f6c6f723d7768697465"/>
+        <img src="https://camo.githubusercontent.com/b504a789288194ec00a04eb9875c2b623890f7bf0f79b01341c623b62af8b949/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f66697265626173652d2532333033394245352e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6669726562617365"/>
+        <img src="https://img.shields.io/badge/-TestingLibrary-%23E33332?&style=for-the-badge&logo=testing-library&logoColor=white"/> 
+        <img src="https://img.shields.io/badge/-jest-%23C21325?&style=for-the-badge&logo=jest&logoColor=white"/>
+        
   </div>
+
+
 
       
 
