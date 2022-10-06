@@ -13,6 +13,11 @@ The most shameless and curious you've ever met.
 By understanding the main problem, I add value by developing solutions and anticipating future problems.
 
 Fast learner with almost one year of experience using the newest technologies to solve problems and create solutions. (React, Next, Typescript, Styled-components, UI Libs, Firebase, Git, Github)
+
+- Patient
+- Confident
+- Dedicated
+
   </div>
   <br>
       
