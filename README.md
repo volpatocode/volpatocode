@@ -8,7 +8,7 @@
   </div>
   <br/>
   <div>
-Hi there👋🏻! I’m a Jr Frontend Developer passionate about building meaningful and scalable solutions. I have experience with React, Typescript, Scrum/Kanban and a lot more of technologies and processes that complements the react and an agile methodology.
+Hi there👋🏻! I’m a Frontend Developer passionate about building meaningful and scalable solutions. I have experience with React, Typescript, Scrum/Kanban and a lot more of technologies and processes that complements the react and an agile methodology.
 <br/>
     <br/>
 Fast learner with almost one year of experience using the newest technologies to solve problems and create solutions. (React, Next, Typescript, Styled-components, UI Libs, Firebase, Git, Github)
