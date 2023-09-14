@@ -1,17 +1,17 @@
   <div align="left">
     <h2>Hi there, i'm João
       <br>
-    A Front-End technology lover ❤
+    A Quality Assurance / Front-End technology lover ❤
     </h2>
   <a href="https://www.linkedin.com/in/joaovolpatocode/"><img align="center" alt="code-Linkedin" height="30" width="110" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   <a href="mailto:volpatocode@gmail.com"><img align="center" height="30" alt="EMAIL" src="https://camo.githubusercontent.com/c2084ea08158c801f97554d2e2bcc38da2cd1cd845932eeeb8244adb3309cf3b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d456d61696c2d6331343433383f7374796c653d666f722d7468652d6261646765266c6f676f3d476d61696c266c6f676f436f6c6f723d7768697465266c696e6b3d6d61696c746f3a6f694076696e7061632e696f"/>
   </div>
   <br/>
   <div>
-Hi there👋🏻! I’m a Frontend Developer passionate about building meaningful and scalable solutions. I have experience with React, Typescript, Scrum/Kanban and a lot more of technologies and processes that complements the react and an agile methodology.
+Quality Assurance Engineer with a background in Front-end development, dedicated to ensuring software excellence. Skilled in implementing QA processes, conducting rigorous testing, and collaborating with cross-functional teams. A detail-oriented problem solver, I leverage my technical expertise to contribute to seamless product development. My Front-end skills complement my ability to understand complex systems and provide valuable insights during testing and optimization phases.
 <br/>
     <br/>
-Fast learner with one year of experience using the newest technologies to solve problems and create solutions. (React, Next, Typescript, Styled-components, UI Libs, Firebase, Git, Github)
+Fast learner with one year of experience using the newest technologies to solve problems and create solutions. (Cypress, React, Next, Typescript, Styled-components, UI Libs, Firebase, Git, Github)
 
   </div>
   <br>
