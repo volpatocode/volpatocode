@@ -4,7 +4,7 @@
     A Quality Assurance / Front-End technology lover ❤
     </h2>
   <a href="https://www.linkedin.com/in/joaovolpatocode/"><img align="center" alt="code-Linkedin" height="30" width="110" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  <a href="mailto:volpatocode@gmail.com"><img align="center" height="30" alt="EMAIL" src="https://camo.githubusercontent.com/c2084ea08158c801f97554d2e2bcc38da2cd1cd845932eeeb8244adb3309cf3b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d456d61696c2d6331343433383f7374796c653d666f722d7468652d6261646765266c6f676f3d476d61696c266c6f676f436f6c6f723d7768697465266c696e6b3d6d61696c746f3a6f694076696e7061632e696f"/>
+  <a href="mailto:volpatocode@gmail.com"><img align="center" height="30" alt="EMAIL" src="https://camo.githubusercontent.com/4d0f7dcf5c079634e2b36113ee9217cc51ecee7de6d8b6b34a6faf10941949c4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d476d61696c2d2532334534343035463f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465"/>
   </div>
   <br/>
   <div>
